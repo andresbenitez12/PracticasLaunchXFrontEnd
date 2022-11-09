@@ -1,5 +1,6 @@
 # Practicas Launch X Frontend
-In this repository I´ll keep my notes, activities and code developed in the frontend course Launch X .
+In this repository I´ll keep my activities and code developed in the frontend course of Launch X.
 
-1. Practica de Intro a Frontend boceto de pagina web (Abogabot)
-2. Práctica Html pagina web de tienda (Taquería)
+1. Introduction activity of a Frontend web page dashboard (Abogabot)
+2. HTLM practice of an online restraurant of Tacos (Taquería)
+3. JS and CSS practice creating a Pokemon searcher (Pokedex)
